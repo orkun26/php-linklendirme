@@ -1,0 +1,22 @@
+body {background: #ddd ; }
+
+.ust h1{
+	margin: 2px;
+	padding: 2px;
+}
+
+.ust b {margin-left:160px;font size:18px;}
+
+.menu {margin-top:10px;}
+
+.icerik { background:white; 
+	min-height:200px;margin-top:10px;
+	padding:10px;}
+
+	.icerik h1{margin:1px; 
+		padding:1px;}
+
+		.icerik p { font-size: 17px;
+		font-family: verdana;}
+
+		.footer{background:lightgreen; margin-top:10px;padding:10px;}
